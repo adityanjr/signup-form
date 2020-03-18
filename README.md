@@ -1,4 +1,4 @@
 # signup-form
  Double Sliding login and signup form.
-> Made with simple html and css animations.
+> Front-End Template
 #### https://adityanjr.github.io/signup-form/
